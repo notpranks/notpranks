@@ -8,3 +8,4 @@
 notpranks/notpranks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+WARNING :This is just a prank,dont take it serious
